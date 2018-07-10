@@ -13,8 +13,12 @@ h1, p {
   text-align: center;
 }
 a {
+  text-decoration: none;
   display: block;
 }
 h2 {
   display: block;
+}
+div {
+  padding: 1em;
 }
