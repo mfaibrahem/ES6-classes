@@ -17,5 +17,8 @@ a {
   display: block;
 }
 h2 {
-  display: block;
+  
+}
+ul {
+  display: inline;
 }
